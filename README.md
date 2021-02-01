@@ -1,6 +1,12 @@
 # Hi 👋, Im Felipe Escorel 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-escorel/)](https://www.linkedin.com/in/felipe-escorel/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipe.escorel@gmail.com)](mailto:felipe.escorel@gmail.com)
+<a href="https://www.linkedin.com/in/felipe-escorel/" target="_blank">
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+</a>
+
+<a href="mailto:felipe.escorel@gmail.com">
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+</a>
+
 
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=fffeiip&theme=dark&hide=contribs&show_icons=true'> -->
 <!--
