@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-escorel/)](https://www.linkedin.com/in/felipe-escorel/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipe.escorel@gmail.com)](mailto:felipe.escorel@gmail.com)
 
-<img src='https://github-readme-stats.vercel.app/api?username=fffeiip&theme=dark&hide=contribs&show_icons=true'>
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=fffeiip&theme=dark&hide=contribs&show_icons=true'> -->
 <!--
 **fffeiip/fffeiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
