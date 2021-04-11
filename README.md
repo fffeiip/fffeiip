@@ -1,10 +1,13 @@
 # Hello! :wave:
 
-### My name is Felipe Escorel, 
+### My name is Felipe, 
 - :blush: I'm currently working as a software developer at [Viana & Moura](https://www.vianaemoura.com.br).
-- 🌱 Interested in learning mobile and web development in general, currently studying about [React Native](https://reactnative.dev).
-- :book: I like to read about machine learning and try to apply its concepts into real world problems.
-- 🎸I also enjoy to make some noise with my guitar 🎵 🎵
+- 🌱 Interested in learning mobile and web development in general, currently studying about [Lumen](https://lumen.laravel.com/).
+- :book: My current readings are about software quality and TDD.
+- 🎸 I enjoy making some noise with my guitar 🎵 🎵
+
+I'm always trying to improve myself.
+
 
 
 📫 Reach me at:
