@@ -2,7 +2,7 @@
 
 ### My name is Felipe, 
 - :blush: I'm currently working as a software developer at [Viana & Moura](https://www.vianaemoura.com.br).
-- 🌱 Interested in learning mobile and web development in general, currently studying about [Lumen](https://lumen.laravel.com/).
+- 🌱 Interested in learning mobile and web development in general, currently studying about [React](https://reactjs.org/).
 - :book: My current readings are about software quality and TDD.
 - 🎸 I enjoy making some noise with my guitar 🎵 🎵
 
