@@ -6,9 +6,6 @@
 - :book: My current readings are about software quality and TDD.
 - 🎸 I enjoy making some noise with my guitar 🎵 🎵
 
-I'm always trying to improve myself.
-
-
 
 📫 Reach me at:
 
