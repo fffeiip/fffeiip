@@ -1,9 +1,8 @@
 # Hello! :wave:
 
 ### My name is Felipe, 
-- :blush: I'm currently working as a software developer at [Viana & Moura](https://www.vianaemoura.com.br).
-- 🌱 Interested in learning mobile and web development in general, currently studying about [React](https://reactjs.org/).
-- :book: My current readings are about software quality and TDD.
+- :blush: I'm a software developer 💻. Passionate about learning and currently working as a fullstack developer. 
+- 🌱 Interested in learning mobile and web development in general, currently studying about [Vue](https://vuejs.org/).
 - 🎸 I enjoy making some noise with my guitar 🎵 🎵
 
 
