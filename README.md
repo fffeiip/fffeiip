@@ -1,7 +1,7 @@
 # Hello! :wave:
 
 ### My name is Felipe, 
-- :blush: I'm a software developer 💻. Passionate about learning and currently working as a fullstack developer with Laravel and NextJS. 
+- :blush: I'm a software developer 💻. Passionate about learning and currently working as a fullstack developer using Laravel and NextJS. 
 - 🌱 Interested in learning mobile and web development in general, currently studying about cloud monitoring.
 - 🎸 I enjoy making some noise with my guitar 🎵 🎵
 
